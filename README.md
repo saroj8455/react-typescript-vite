@@ -22,9 +22,26 @@ export default {
     project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
     tsconfigRootDir: __dirname,
   },
-}
+};
 ```
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+- Medium resource
+
+`https://medium.com/@baguilar6174/react-design-patterns-6ab55c5ebafb`
+
+`https://nabendu82.medium.com/typescript-interview-questions-80d4bb1e9733`
+
+- 45 JavaScript Super Hacks Every Developer Should Know
+
+`https://medium.com/dev-genius/45-javascript-super-hacks-every-developer-should-know-92aecfb33ee8`
+
+- Public API
+
+`https://www.postman.com/cs-demo/public-rest-apis/request/64pqonf/random-joke`
+
+- 45 JavaScript Super Hacks Every Developer Should Know
+  `https://medium.com/dev-genius/45-javascript-super-hacks-every-developer-should-know-92aecfb33ee8`
